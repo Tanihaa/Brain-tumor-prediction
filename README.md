@@ -34,5 +34,5 @@ Technologies Used
 TensorFlow/Keras: For building and training the CNN and ANN models.  
 Gradio: For creating the user-friendly web interface.  
 NumPy: For efficient data manipulation.  
-
+dataset is available on https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection?select=no
 
